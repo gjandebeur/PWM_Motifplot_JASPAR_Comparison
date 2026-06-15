@@ -1,6 +1,5 @@
 # PWM_Motifplot_JASPAR_Comparison
-
-<img width="980" height="817" alt="synthetic_chromvar_volcano_3" src="https://github.com/user-attachments/assets/7bb6ea84-4fbd-4ac6-a654-6078502da197" />
+<img width="1119" height="1153" alt="variant_motif_figure" src="https://github.com/user-attachments/assets/9d553c11-75df-4147-8c16-86d3f2ae3358" />
 
 
 Using JASPAR database to determine TF binding efficacy for ref/alt alleles using Variant_Effect_Prediction outputs. Gives log2fc transformed output for differential TF binding.
